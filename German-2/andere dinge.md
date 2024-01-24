@@ -1,5 +1,7 @@
-| Deutsch | Bedeutung / معنى  / Meaning |
+| **Deutsch** | **Bedeutung / معنى  / Meaning** |
 | ---- | ---- |
+| vorsicht | caution! |
+| achtung | attention! |
 | Pünktlich | On Time |
 | Irgendwann | Some Times / At some time |
 | Mindestens | at least |
@@ -28,8 +30,11 @@
 | **m**orgen | Tomorrow |
 | weider | again |
 | später<br> | later |
-|  |  |
-|  |  |
+| hoffentlich | hopefully |
+| damit | therefore |
+| eigene | own `Z.P` wir wollen eine eigene Firma habe --> ... to have our own company |
+| Grenzen | limit `Z.P` Ärzte ohne Grenzen |
+| sofort | immediately |
 |  |  |
 ## للترتيب الزمني
 | Zuerst | First |

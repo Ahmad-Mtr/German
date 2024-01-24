@@ -1,5 +1,11 @@
 | Deutsch |  |
 | ---- | ---- |
+| vorschlagen | suggest |
+| absagen | cancel |
+| verschieben | postpone |
+| steckt | stuck/he's `Z.P` er steckt im Stau. -> he's stuck in the traffic<br>er steckt dahinter -> he's the one behind |
+| klappt | works out |
+| herkommen | come here |
 | Zeigen | to show |
 | beachten | to pay attention |
 | wünschen | to wish/want |
@@ -21,4 +27,6 @@
 | gewinnen | win |
 | verschieben | to postpone |
 | schicken | to send |
-|  |  |
+| passieren | happen |
+| probiert | to try |
+| bleiben | stay / remain |

@@ -1,5 +1,28 @@
-| Leute | People |
+
+| **Deutsch** |  |
 | ---- | ---- |
+| heimatstadt | hometown |
+| mond | moon |
+| unlogisch | illogical |
+| geschlossen | closed |
+| Mieter | tenant / مستأجر |
+| Gehirn | Brain |
+| salbe | مرهم `Z.P` salbe auftragen |
+| übergewicht | overweight |
+| Wohngemeinschaft (WG) | shared Appartment |
+| die küche | Kitchen |
+| der Flur | hall |
+| die treppe | the stairs |
+| Erdgeschoss | ground floor |
+| möbliert/möbel | furnished/furnishure |
+| Nebenkosten | additional costs |
+| die Heizung | Heater |
+| vorstellungsgespräch | interview |
+| armer, | poor `Z.P`: du armer! poor you |
+| wirtschaft | economy |
+| Leute | People |
+| kräftig | Fat? |
+| schlank | thin |
 | WeltWeiten | worldwide |
 | Blick | 😉 |
 | geschafft | finished |
@@ -14,7 +37,7 @@
 | verboten | Forbidden |
 | erlaubt | Allowed |
 | gefährlich | Dangerous |
-| Schritte | Steps |
+| Schritte | Steps (بمعنى خطوات اكثر) |
 | Geschäftidee | Business Idea |
 | Anfang | Begining |
 | Szene | Scene |
@@ -35,3 +58,21 @@
 | Ziel | Goal |
 | Festen | عيد |
 | Ostern | Easter |
+| Anzeige | Advertisement |
+| Stelle | Job |
+| Papier korb | trash bin |
+| schere | scissors |
+| kunde | customer |
+| nachrichten | messages/news |
+| Ausland | خارج البلد |
+| müde | tired |
+| Haushalt | House chores |
+| Autounfall | Car accident |
+| gemütlich | cozy/ comfortable |
+| unbedingt/auf jeden fall | absolutely |
+| auf keinen fall | impossible! |
+| raus | out |
+| möglich | possible |
+| klamotten | clothes |
+| langweilig | boring |
+| sportveranstaltungen | sporting events |
