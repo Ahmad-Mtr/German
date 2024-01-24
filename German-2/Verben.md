@@ -1,5 +1,11 @@
-| Deutsch |  |
+| **Deutsch** |  |
 | ---- | ---- |
+| bestellen | to order |
+| verdoppeln | double |
+| wählen | choose |
+| stattgefunden | took place |
+| meinen | mean |
+| auf \| bauen | to build up |
 | vorschlagen | suggest |
 | absagen | cancel |
 | verschieben | postpone |
@@ -30,3 +36,4 @@
 | passieren | happen |
 | probiert | to try |
 | bleiben | stay / remain |
+| erzählen | tell |

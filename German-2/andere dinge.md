@@ -1,11 +1,13 @@
 | **Deutsch** | **Bedeutung / معنى  / Meaning** |
 | ---- | ---- |
+| übrigens | btw, by the way |
 | vorsicht | caution! |
 | achtung | attention! |
 | Pünktlich | On Time |
 | Irgendwann | Some Times / At some time |
 | Mindestens | at least |
 | überhaupt | at all |
+| überall | anywhere |
 | selbst | by yourself |
 | genug | enough |
 | gleich | same, Exp: "Autos" und "Kartoffeln" sind nicht gleich |
@@ -35,7 +37,7 @@
 | eigene | own `Z.P` wir wollen eine eigene Firma habe --> ... to have our own company |
 | Grenzen | limit `Z.P` Ärzte ohne Grenzen |
 | sofort | immediately |
-|  |  |
+| Nähe | nearby by... |
 ## للترتيب الزمني
 | Zuerst | First |
 | ---- | ---- |
@@ -43,5 +45,6 @@
 | danach | after that |
 | davor | before that |
 | scließlich | Finally |
+| zuletzt | last |
 | am Ende | in the End |
 

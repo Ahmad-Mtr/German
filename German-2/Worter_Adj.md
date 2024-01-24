@@ -1,6 +1,15 @@
 
 | **Deutsch** |  |
 | ---- | ---- |
+| verein | Club |
+| unterschiedliche | different |
+| Meinungen | Opinions |
+| enttäuscht | disappointed |
+| begeistert | thrilled |
+| verzweifelt | desperate |
+| jubiläum | anniversary |
+| gefreut | pleased |
+| Nichte/Neffe | niece/nephew |
 | heimatstadt | hometown |
 | mond | moon |
 | unlogisch | illogical |
@@ -76,3 +85,27 @@
 | klamotten | clothes |
 | langweilig | boring |
 | sportveranstaltungen | sporting events |
+| puppen | dolls |
+| Wagen | Car |
+| Messe | Exhibition |
+| Alltag | Everyday life |
+| leicht | easy |
+| einfach | simple/easy |
+| anstrengend | exhausting |
+| furchtbar | terrible |
+| unterwegs | on the road |
+| hauptrolle | leading role |
+| erfolg | success |
+| schicht | shift (`Z.P`morning, overnight...) |
+| mitbewohner | roommate |
+| wahnsinn | madness |
+| segelboote | sailboats |
+| schiffe | vessels |
+| wunderschöne | wonderful |
+| höchste | highest |
+| überraschungsevent | Surprise Event |
+| veranstaltung | Event |
+| bewertung | review |
+| überrascht | surprised |
+| entspannt | relaxed |
+| getrennt | seperately |
