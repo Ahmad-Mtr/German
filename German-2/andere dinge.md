@@ -1,5 +1,6 @@
 | **Deutsch** | **Bedeutung / معنى  / Meaning** |
 | ---- | ---- |
+| Niemals | ever |
 | übrigens | btw, by the way |
 | vorsicht | caution! |
 | achtung | attention! |
